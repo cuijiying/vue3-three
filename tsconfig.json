@@ -1,0 +1,18 @@
+{
+  "files": [],
+  "references": [
+    {
+      "path": "./tsconfig.node.json"
+    },
+    {
+      "path": "./tsconfig.app.json"
+    }
+  ],
+  // "compilerOptions": {
+  //   "baseUrl": "./", // 设置 baseUrl 为当前工作目录
+  //   "paths": {
+  //     "three": ["node_modules/three"],
+  //     "three/examples/jsm/*": ["node_modules/three/examples/jsm/*"]
+  //   }
+  // }
+}

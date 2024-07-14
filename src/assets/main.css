@@ -1,0 +1,10 @@
+@import './base.css';
+
+canvas{
+  display: block;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  background-color: #242424;
+}
